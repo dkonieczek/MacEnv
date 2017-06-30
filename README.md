@@ -7,6 +7,7 @@ This repo is a Guide to setting up a dev environment on OS X
 
 [Chrome](https://www.google.com/chrome/browser/desktop/index.html)  
 [Firefox](https://www.mozilla.org/en-US/firefox/desktop/)  
+[Opera](http://www.opera.com/download) - Free VPN built in
 
 ## Browser Extensions
 
