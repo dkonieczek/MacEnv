@@ -165,10 +165,7 @@ Shell Command: install ‘code’ command in PATH
 
 
 Download sublime3 https://www.sublimetext.com/
-
-vim ~/.bash_profile
-alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
-
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin
 
 Flux instead of night shift
 https://justgetflux.com
@@ -197,3 +194,11 @@ Control -> Command
 Enable keyboard access to windows and dialogs
 System preferences > keyborad > shortcuts > set Full Keyboard Access to ‘All controls’
 
+
+Spotify https://www.spotify.com
+
+Teamviewer https://www.teamviewer.com/en/
+
+Skype https://www.skype.com/
+
+NodeJS https://nodejs.org/en/
