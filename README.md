@@ -202,3 +202,9 @@ Teamviewer https://www.teamviewer.com/en/
 Skype https://www.skype.com/
 
 NodeJS https://nodejs.org/en/
+
+Slack
+
+Mail > Add all email accounts
+
+Spectacle for resizing windows with hotkeys - https://www.spectacleapp.com/
