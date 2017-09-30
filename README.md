@@ -208,3 +208,16 @@ Slack
 Mail > Add all email accounts
 
 Spectacle for resizing windows with hotkeys - https://www.spectacleapp.com/
+
+
+Dark mode OS X
+System Preferences > General > "Use dark menu bar and dock"
+
+System Preferences > Trackpad > Enable tap to click with 1 finger
+
+
+
+
+Design
+
+Adobe XD https://creative.adobe.com/products/download/experience-design
