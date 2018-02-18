@@ -30,7 +30,11 @@ This repo is a Guide to setting up a dev environment on OS X
 [Spectacle](https://www.spectacleapp.com/) - Resize windows with keyboard shortcuts  
 [Divvy](http://mizage.com/divvy/) - Resize windows to custom grid size  
 [BetterTouchTool](https://www.boastr.net/) - Map custom keyboard/mouse/trackpad shortcuts to actions  
-
+[CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Display keyboard shortcuts for the application that is currently open  
+[Divvy](http://mizage.com/divvy/) - Resize windows to custom grid size  
+[CleanMyMac](https://macpaw.com/cleanmymac) - Mac garbage cleaner with a clean UI  
+[Wallcat](https://beta.wall.cat/) - Different wallpaper each day  
+[iStat Menus](https://bjango.com/mac/istatmenus/) - System status  
 
 ## In Progress
 
